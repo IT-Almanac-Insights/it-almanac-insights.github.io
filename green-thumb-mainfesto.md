@@ -1,1 +1,1 @@
-# IT Green Thumb Manifesto
+# Green Thumb Information Technology Manifesto
