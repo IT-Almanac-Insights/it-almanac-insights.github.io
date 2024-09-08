@@ -1,5 +1,7 @@
 # Futures Resource Efficiency and Scheduling (FRESh) Framework
 
+***By: [IT Almanac Insights](index.md) - "Harvesting the Power of Information Technology"***
+
 ## Introduction to the FRESh Framework
 
 **"Data delivered on time and on budget."**
