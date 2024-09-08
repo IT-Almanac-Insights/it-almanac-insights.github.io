@@ -1,6 +1,6 @@
 # Green Thumb Information Technology Manifesto
 
-by: IT Almanac Insights - "Harvesting the Power of Information Technology"
+***By: [IT Almanac Insights](index.md) - "Harvesting the Power of Information Technology"***
 
 ## **Green Thumb Values**
 
