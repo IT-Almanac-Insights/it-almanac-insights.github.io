@@ -1,3 +1,5 @@
+<img src="fresh-framework.png" alt="Logo for Futures Resource Efficiency and Scheduling" />
+
 # Futures Resource Efficiency and Scheduling (FRESh) Framework
 
 ***By: [IT Almanac Insights](index.md) - "Harvesting the Power of Information Technology"***
