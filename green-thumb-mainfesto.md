@@ -1,3 +1,5 @@
+<img src="it-green-thumb.png" alt="Logo for Green Thumb Information Technology" />
+
 # Green Thumb Information Technology Manifesto
 
 ***By: [IT Almanac Insights](index.md) - "Harvesting the Power of Information Technology"***
