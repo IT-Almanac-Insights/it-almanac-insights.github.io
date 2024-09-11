@@ -1,3 +1,5 @@
+<img src="nimble.png" alt="Nimble a Watergile" />
+
 # Nimble the Watergile
 ***By: [IT Almanac Insights](index.md) - "Harvesting the Power of Information Technology"***
 
