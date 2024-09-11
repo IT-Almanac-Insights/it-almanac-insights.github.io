@@ -1,4 +1,5 @@
 # Nimble the Watergile
+***By: [IT Almanac Insights](index.md) - "Harvesting the Power of Information Technology"***
 
 There once was a droplet, so small and so bright,  
 Named Nimble, who shimmered in the soft morning light.  
