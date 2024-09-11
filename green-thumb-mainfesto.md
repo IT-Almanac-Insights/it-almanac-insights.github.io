@@ -9,8 +9,8 @@
 1. **We value a clear chain of command over open team collaboration.**
    - Just as a Farm Manager directs the work of field hands, we prioritize a structured hierarchy over spontaneous teamwork.
 
-2. **We value strict adherence to procedures over flexible problem-solving.**
-   - Like following a crop rotation schedule, we stick to established processes over adapting on the fly.
+2. **We value the harvested information over the systems that collect it.**
+   - The value lies in the data and insights we gather, not in the specific systems or tools used to collect them.
 
 3. **We value focused, uninterrupted work over frequent check-ins and meetings.**
    - Similar to how a Crop Scout surveys fields without distraction, we emphasize deep work over constant status updates.
