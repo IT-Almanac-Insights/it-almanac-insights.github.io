@@ -20,9 +20,13 @@ At the heart of this framework, the crop to be harvested is analogous to client 
 
 Just as a farmer plans and executes a full growing season—from preparing the soil in spring, planting and tending crops through summer, to harvesting in the fall—our one-year project follows a similar cycle. Each fiscal year is like a growing season: it starts with careful planning, involves diligent execution and management, and ends with a harvest where we assess our yields and prepare for the next season. This annual rhythm ensures we stay focused, productive, and ready for whatever the next cycle brings.
 
+<img src="FRESh-fiscal-cycle.png" alt="Image for fiscal cycle: winter planning, spring preperation, summer growing, winter harves " />
+
 ### Practice: Four-Year Tractor Cycle
 
 Just like a farmer who replaces a tractor every four years to ensure the machinery stays efficient and up-to-date, we plan for a four-year lifecycle for our tools and systems. This approach anticipates wear and tear and keeps us prepared for upgrades, ensuring that our equipment—or in our case, technology—doesn't become outdated or inefficient, maintaining peak performance on the farm.
+
+<img src="FRESh-olympiad.png" alt="Image for fiscal four year cycle or olympiad" />
 
 ### Practice: Plan for the Unexpected ('Futures')
 
