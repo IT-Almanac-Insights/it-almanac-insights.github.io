@@ -32,7 +32,7 @@ Just as a farmer trusts a well-maintained tractor to get the job done efficientl
 
 ### **Principle: No Lone Cowboys in the Fields**
 
-Just as a successful farm relies on coordinated efforts rather than one person taking risks, we ensure that every team member follows established procedures. Wild, independent actions can lead to failed crops; similarly, we believe that sticking to the plan is key to delivering consistent results.
+Just as a successful farm depends on the coordinated efforts of the entire team, we emphasize working together to stay on time and within budget. A renegade approach, where one person takes unnecessary risks, can lead to delays and failed crops. We believe that staying aligned as a unit is key to delivering consistent results.
 
 ### **Principle: Scare Off Disruptions**
 
