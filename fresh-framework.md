@@ -28,11 +28,11 @@ Just like a farmer who replaces a tractor every four years to ensure the machine
 
 <img src="FRESh-olympiad.png" alt="Image for fiscal four year cycle or olympiad" />
 
-### Practice: Plan for the Unexpected ('Futures')
+### Practice: Futures and Planned Obsolescence
 
 In the FRESh framework, just as farmers hedge against uncertain crop yields by investing in futures, IT teams should always have a "Plan B" or exit strategy ready if projects risk missing budget or timelines. This exit strategy can be implemented at any point during the four-year cycle but **must** be applied at the end of the fourth cycle. This ensures that by the end of each four-year period, teams either course-correct or move on to a new approach, avoiding the pitfalls of persisting with failing strategies. This practice emphasizes the importance of adaptability and forward planning to maintain organizational success.
 
-### Practice: Four-Year Review Cycle (Olympiad)
+### Practice: Olympiad
 
 Just like an "Olympiad" for the farm, every four years, farm managers, crop scouts, and small tractor crews are assessed based on their performance over the last four growing seasons. This review focuses on identifying which teams consistently delivered their crops on time and within budget. To foster a spirit of healthy competition and drive continuous improvement, the results are published, and a "medal count" is awarded to the top-performing teams. Those who excel are publicly recognized for their achievements, with scores displayed in a visible place for all to see, creating a culture where excellence is celebrated, and everyone strives to improve their standing in the next cycle. This transparent approach not only highlights the best practices but also motivates all teams to refine their strategies and work more efficiently in pursuit of excellence.
 
