@@ -56,5 +56,9 @@ Just as a farmer knows when to adapt to changing weather rather than sticking ri
 
 Innovation is like experimenting with new farming techniques during the growing season—it's great if it helps the harvest. But if your new methods risk delaying the harvest or exceeding the budget, it's time to put them aside. Focus on delivering the crop on time and within budget. Innovation is a bonus, not the goal. The priority is a successful and timely harvest.
 
+### Practice:  Glass Silos
+
+Teams or "Tractor Crews" operate within "Glass Silos" — transparent structures that allow each team to observe the activities and progress of other teams without direct interaction until the year-end harvest festival. Each team can focus on their specific responsibilities while maintaining awareness of the broader picture.
+
 ---
  <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://it-almanac-insights.github.io"> Futures Resource Efficiency and Scheduling (FRESh) Framework </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://it-almanac-insights.github.io">IT Almanac Insights</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p> 
