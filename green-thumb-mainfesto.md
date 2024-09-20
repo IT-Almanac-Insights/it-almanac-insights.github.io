@@ -23,7 +23,7 @@
 
 ---
 
- ## Green Thumb Principles
+## Green Thumb Principles
  
 
 ### **Principle: Stick with Reliable Equipment**
