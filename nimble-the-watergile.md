@@ -3,6 +3,10 @@
 # Nimble the Watergile
 ***By: [IT Almanac Insights](index.md) - "Harvesting the Power of Information Technology"***
 
+<audio controls>
+ <source src="nimble-theme-song.mp3" type="audio/mpeg">
+</audio>
+
 There once was a droplet, so small and so bright,  
 Named Nimble, who shimmered in the soft morning light.  
 Nimble would wriggle and jiggle with glee,  
