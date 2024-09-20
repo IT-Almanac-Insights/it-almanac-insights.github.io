@@ -4,7 +4,7 @@
 
 ***By: [IT Almanac Insights](index.md) - "Harvesting the Power of Information Technology"***
 
-## **Green Thumb Values**
+## Green Thumb Values
 
 1. **We value a clear chain of command over open team collaboration.**
    - Just as a Farm Manager directs the work of field hands, we prioritize a structured hierarchy over spontaneous teamwork.
@@ -23,7 +23,7 @@
 
 ---
 
- ## **Green Thumb Principles**
+ ## Green Thumb Principles
  
 
 ### **Principle: Stick with Reliable Equipment**
