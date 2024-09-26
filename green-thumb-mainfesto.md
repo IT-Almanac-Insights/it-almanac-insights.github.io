@@ -1,3 +1,6 @@
+---
+title: IT Almanac Insights - Green Thumb Information Technology Manifesto
+---
 <img src="it-green-thumb.png" alt="Logo for Green Thumb Information Technology" />
 
 # Green Thumb Information Technology Manifesto
