@@ -1,6 +1,5 @@
 ---
 title: IT Almanac Insights - Nimble the Watergile
-tags: Agile Scrum Waterfall
 ---
 <img src="nimble.png" alt="Nimble a Watergile" />
 
