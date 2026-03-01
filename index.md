@@ -6,6 +6,7 @@
 - [Green Thumb Information Technology Manifesto](green-thumb-mainfesto.md)
 - [Futures Resource Efficiency and Scheduling (FRESh) Framework](fresh-framework.md)
 - [Nimble the Watergile](nimble-the-watergile.md)
+- [The Unnecessary](the-unnecessary-song.md)
 
 ## About IT Almanac Insights
 
