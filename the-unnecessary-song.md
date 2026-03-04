@@ -12,25 +12,42 @@ title: IT Almanac Insights - The Unnecessary
 
 
 They’re selling us the lightning, the newest chrome and glass
+
 A million lines of code to make the simple moments pass
+
 They call it "innovation," they call it "cutting edge"
+
 But we’re just building towers on a crumbling garden ledge
 
+
 Strip away the ego, pull the weeds out from the grain
+
 We’re looking for the sunlight, we’re dancing in the rain
+
 If it doesn't feed the soil, if it doesn't help us grow
+
 It’s just The Unnecessary—and it’s time to let it go
 
+
 They talk in frameworks, manifestos in the sky
+
 But the roots are getting thirsty while the fancy wells run dry
+
 Give me something nimble, give me something "Watergile"
+
 A legacy of logic that can last a country mile
+
 Plant a tree today whose shade you’ll never get to see
+
 That’s the only kind of power that’ll set the future free.
 
+
 Start where you are...
+
 Do what you can...
+
 With what you have...
+
 And leave The Unnecessary behind.
 
 ---
